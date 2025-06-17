@@ -2,7 +2,7 @@
 // @name         SUUMO物件非表示マネージャ 🏠
 // @name:ja      SUUMO物件非表示マネージャ 🏠
 // @name:en      SUUMO Hidden Property Manager 🏠
-// @version      3.7.0
+// @version      3.7.1
 // @description         SUUMOの検索結果（建物ごとに表示）で「非表示」ボタンから不要な物件を隠せる！モーダルUIから復活も簡単。保存はローカル。
 // @description:ja      SUUMOの検索結果（建物ごとに表示）で「非表示」ボタンから不要な物件を隠せる！モーダルUIから復活も簡単。保存はローカル。
 // @description:en      Hide unwanted listings in SUUMO's grouped-by-building search results! Restore via modal UI. Data saved locally.
@@ -14,7 +14,7 @@
 // @license      MIT
 // @homepageURL  https://github.com/koyasi777/suumo-hidden-property-manager
 // @supportURL   https://github.com/koyasi777/suumo-hidden-property-manager/issues
-// @icon         https://www.suumo.jp/favicon.ico
+// @icon         https://suumo.jp/front/img/favicon.ico
 // ==/UserScript==
 
 (function() {
